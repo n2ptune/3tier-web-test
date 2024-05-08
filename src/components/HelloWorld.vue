@@ -62,7 +62,7 @@ async function clearList() {
           class="rounded-lg border border-gray-200 px-4 py-2 transition-colors hover:bg-gray-50"
           @click="clearList"
         >
-          Clear
+          Clear 222
         </button>
       </div>
       <div class="max-h-[700px] overflow-y-auto">
